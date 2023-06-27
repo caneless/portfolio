@@ -99,7 +99,7 @@
   <section id="my-prices">
     <div class="container">
       <h2 class="section-title">My Prices</h2>
-      <i class="near-value">1USD is around 11NOK</i>
+      <i class="near-value">1USD is around 10NOK</i>
       <div class="prices-container">
         <div class="discord-bots">
           <h3 class="prices-title">Discord Bots</h3>
